@@ -175,18 +175,6 @@ Also consider adding:
 
 ---
 
-## 📸 Screenshots
-
-Add website screenshots here.
-
-```md
-![Home Page](./public/images/home-page.png)
-![Projects Section](./public/images/projects-section.png)
-![Contact Section](./public/images/contact-section.png)
-```
-
----
-
 ## ✅ Future Enhancements
 
 - Add dark/light mode
@@ -253,9 +241,9 @@ git push origin feature/improvement
 **Mithushan**
 
 - Website: [mithushan.online](https://mithushan.online/)
-- GitHub: [Add GitHub Profile Link]
-- LinkedIn: [Add LinkedIn Profile Link]
-- Email: [Add Email Address]
+- GitHub: github.com/mithushan03/
+- LinkedIn: https://www.linkedin.com/in/mithu03/
+- Email:smithushan03@gmail.com
 
 ---
 
